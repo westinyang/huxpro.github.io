@@ -5,6 +5,7 @@ subtitle:   "Pokemon quest cooking"
 date:       2018-07-01 12:00:00
 author:     "westinyang"
 header-img: "img/post-bg-pokemon-quest.png"
+header-mask: 0.5
 catalog: true
 tags:
     - 游戏
