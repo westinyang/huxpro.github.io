@@ -14,4 +14,4 @@ tags:
 
 > V1.3
 
-![](https://westinyang.github.io/img/in-post/pokemon-quest-cooking-v1.3)
+![](https://westinyang.github.io/img/in-post/pokemon-quest-cooking-v1.3.jpg)
