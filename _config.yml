@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     westinyang
+weibo_username:     517858177
 zhihu_username:     westinyang
 github_username:    westinyang
 twitter_username:   westinyang_
@@ -73,7 +73,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-wy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
