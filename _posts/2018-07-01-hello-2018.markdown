@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Hello 2018"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-07-01 12:00:00
+author:     "westinyang"
+header-img: "img/post-bg-2018.jpg"
+catalog: true
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+我的博客就这么开通了！
+
+---
+
+## 正文
+
+正文内容1...
+
+---
+
+正文内容2...
